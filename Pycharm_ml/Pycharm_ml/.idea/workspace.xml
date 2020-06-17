@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5d138cd-73c0-45b0-8470-11964077c532" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R5cB9NEM5cEJeKbNcbwZFxrTqx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADBMS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CSUFTitan\PycharmProjects\Pycharm_ml" />
+      <recent name="C:\Users\CSUFTitan\PycharmProjects\Pycharm_ml\venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d138cd-73c0-45b0-8470-11964077c532" name="Default Changelist" comment="" />
+      <created>1568960259179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568960259179</updated>
+      <workItem from="1568960286431" duration="2498000" />
+      <workItem from="1568962940724" duration="871000" />
+      <workItem from="1568963838130" duration="4187000" />
+      <workItem from="1569021286022" duration="520000" />
+      <workItem from="1569021834577" duration="38692000" />
+      <workItem from="1570651724948" duration="25375000" />
+      <workItem from="1572314060442" duration="6435000" />
+      <workItem from="1572946254768" duration="609000" />
+      <workItem from="1575326944081" duration="6199000" />
+      <workItem from="1575771860931" duration="34000" />
+      <workItem from="1575771970822" duration="598000" />
+      <workItem from="1575773235098" duration="1204000" />
+      <workItem from="1575794474152" duration="3670000" />
+      <workItem from="1576133774982" duration="86000" />
+      <workItem from="1576883371494" duration="1389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

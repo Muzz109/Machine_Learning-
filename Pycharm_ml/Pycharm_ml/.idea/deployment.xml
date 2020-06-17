@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@ec2-13-56-233-18.us-west-1.compute.amazonaws.com:22">
+    <serverData>
+      <paths name="ubuntu@ec2-13-56-233-18.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_962" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-52-53-194-14.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_861" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-52-53-218-232.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-52-53-218-232.us-west-1.compute.amazonaws.com:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-52-53-218-232.us-west-1.compute.amazonaws.com:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_520" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-52-53-231-216.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_204" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-153-122-170.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_932" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-153-31-138.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_978" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-153-88-52.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_40" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-183-219-51.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_216" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-183-223-254.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_802" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-193-15-175.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_151" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-193-95-240.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_650" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-215-145-4.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-54-215-247-2.us-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_976" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
